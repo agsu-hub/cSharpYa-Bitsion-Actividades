@@ -1,0 +1,7 @@
+F:\cSharpYa-bitsion\2-creacion de un proyecto en c#\CalcularSueldo\bin\Debug\CalcularSueldo.exe.config
+F:\cSharpYa-bitsion\2-creacion de un proyecto en c#\CalcularSueldo\bin\Debug\CalcularSueldo.exe
+F:\cSharpYa-bitsion\2-creacion de un proyecto en c#\CalcularSueldo\bin\Debug\CalcularSueldo.pdb
+F:\cSharpYa-bitsion\2-creacion de un proyecto en c#\CalcularSueldo\obj\Debug\CalcularSueldo.csprojAssemblyReference.cache
+F:\cSharpYa-bitsion\2-creacion de un proyecto en c#\CalcularSueldo\obj\Debug\CalcularSueldo.csproj.CoreCompileInputs.cache
+F:\cSharpYa-bitsion\2-creacion de un proyecto en c#\CalcularSueldo\obj\Debug\CalcularSueldo.exe
+F:\cSharpYa-bitsion\2-creacion de un proyecto en c#\CalcularSueldo\obj\Debug\CalcularSueldo.pdb
