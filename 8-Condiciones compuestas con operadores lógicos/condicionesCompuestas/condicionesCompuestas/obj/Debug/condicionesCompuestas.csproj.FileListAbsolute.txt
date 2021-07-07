@@ -1,0 +1,7 @@
+F:\cSharpYa-bitsion\8-Condiciones compuestas con operadores lógicos\condicionesCompuestas\condicionesCompuestas\bin\Debug\condicionesCompuestas.exe.config
+F:\cSharpYa-bitsion\8-Condiciones compuestas con operadores lógicos\condicionesCompuestas\condicionesCompuestas\bin\Debug\condicionesCompuestas.exe
+F:\cSharpYa-bitsion\8-Condiciones compuestas con operadores lógicos\condicionesCompuestas\condicionesCompuestas\bin\Debug\condicionesCompuestas.pdb
+F:\cSharpYa-bitsion\8-Condiciones compuestas con operadores lógicos\condicionesCompuestas\condicionesCompuestas\obj\Debug\condicionesCompuestas.csprojAssemblyReference.cache
+F:\cSharpYa-bitsion\8-Condiciones compuestas con operadores lógicos\condicionesCompuestas\condicionesCompuestas\obj\Debug\condicionesCompuestas.csproj.CoreCompileInputs.cache
+F:\cSharpYa-bitsion\8-Condiciones compuestas con operadores lógicos\condicionesCompuestas\condicionesCompuestas\obj\Debug\condicionesCompuestas.exe
+F:\cSharpYa-bitsion\8-Condiciones compuestas con operadores lógicos\condicionesCompuestas\condicionesCompuestas\obj\Debug\condicionesCompuestas.pdb

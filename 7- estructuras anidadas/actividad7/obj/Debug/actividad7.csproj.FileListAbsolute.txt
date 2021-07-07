@@ -1,0 +1,7 @@
+F:\Alkemy-PreChallengue\IconosGeograficos\actividad7\bin\Debug\actividad7.exe.config
+F:\Alkemy-PreChallengue\IconosGeograficos\actividad7\bin\Debug\actividad7.exe
+F:\Alkemy-PreChallengue\IconosGeograficos\actividad7\bin\Debug\actividad7.pdb
+F:\Alkemy-PreChallengue\IconosGeograficos\actividad7\obj\Debug\actividad7.csprojAssemblyReference.cache
+F:\Alkemy-PreChallengue\IconosGeograficos\actividad7\obj\Debug\actividad7.csproj.CoreCompileInputs.cache
+F:\Alkemy-PreChallengue\IconosGeograficos\actividad7\obj\Debug\actividad7.exe
+F:\Alkemy-PreChallengue\IconosGeograficos\actividad7\obj\Debug\actividad7.pdb
