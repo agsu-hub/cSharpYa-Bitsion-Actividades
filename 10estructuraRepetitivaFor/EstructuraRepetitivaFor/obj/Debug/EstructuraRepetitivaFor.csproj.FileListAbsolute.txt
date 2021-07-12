@@ -1,0 +1,7 @@
+F:\cSharpYa-bitsion\10estructuraRepetitivaFor\EstructuraRepetitivaFor\bin\Debug\EstructuraRepetitivaFor.exe.config
+F:\cSharpYa-bitsion\10estructuraRepetitivaFor\EstructuraRepetitivaFor\bin\Debug\EstructuraRepetitivaFor.exe
+F:\cSharpYa-bitsion\10estructuraRepetitivaFor\EstructuraRepetitivaFor\bin\Debug\EstructuraRepetitivaFor.pdb
+F:\cSharpYa-bitsion\10estructuraRepetitivaFor\EstructuraRepetitivaFor\obj\Debug\EstructuraRepetitivaFor.csprojAssemblyReference.cache
+F:\cSharpYa-bitsion\10estructuraRepetitivaFor\EstructuraRepetitivaFor\obj\Debug\EstructuraRepetitivaFor.csproj.CoreCompileInputs.cache
+F:\cSharpYa-bitsion\10estructuraRepetitivaFor\EstructuraRepetitivaFor\obj\Debug\EstructuraRepetitivaFor.exe
+F:\cSharpYa-bitsion\10estructuraRepetitivaFor\EstructuraRepetitivaFor\obj\Debug\EstructuraRepetitivaFor.pdb
