@@ -1,0 +1,7 @@
+F:\cSharpYa-bitsion\11-Estructura Repetitiva Do While\doWhile\bin\Debug\doWhile.exe.config
+F:\cSharpYa-bitsion\11-Estructura Repetitiva Do While\doWhile\bin\Debug\doWhile.exe
+F:\cSharpYa-bitsion\11-Estructura Repetitiva Do While\doWhile\bin\Debug\doWhile.pdb
+F:\cSharpYa-bitsion\11-Estructura Repetitiva Do While\doWhile\obj\Debug\doWhile.csprojAssemblyReference.cache
+F:\cSharpYa-bitsion\11-Estructura Repetitiva Do While\doWhile\obj\Debug\doWhile.csproj.CoreCompileInputs.cache
+F:\cSharpYa-bitsion\11-Estructura Repetitiva Do While\doWhile\obj\Debug\doWhile.exe
+F:\cSharpYa-bitsion\11-Estructura Repetitiva Do While\doWhile\obj\Debug\doWhile.pdb
